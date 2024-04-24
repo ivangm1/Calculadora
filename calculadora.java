@@ -4,3 +4,5 @@ Conflicto
 
 
 Cambio realizado en local
+
+  Cambio en el repositorio de GitHub!
